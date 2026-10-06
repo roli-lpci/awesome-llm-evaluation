@@ -57,6 +57,7 @@ Benchmarks testing logical reasoning, math, and problem-solving.
 - **[GPQA Diamond](https://github.com/idavidrein/gpqa)** : Graduate-level science questions. PhD-level difficulty.
 - **[GSM8K](https://github.com/openai/grade-school-math)** : Grade school math. Effectively saturated (top models >95%).
 - **[BIG-Bench Hard](https://github.com/suzgunmirac/BIG-Bench-Hard)** : 23 challenging tasks from BIG-Bench that remain difficult.
+- **[BKP-500](https://github.com/sthanika-ai/Bharat-Knowledge-Probe-Benchmark)** : 552 questions testing India-specific conventions (lakh/crore arithmetic, state land units, crop calendars, fiscal year, government schemes). Deterministically graded, no LLM judge. Released by Sthānika AI.
 
 ## Agent Benchmarks
 
